@@ -34,7 +34,7 @@ Slowly, it became useful. When the topic of social posts came up in conversation
 
 A Skill is just a folder with text files:
 
-[![A Skill is just a folder with text files](https://substack-post-media.s3.amazonaws.com/public/images/9a7f8053-dd8e-4af4-bc11-4ae28f7cf2b8_499x521.png)](https://substack-post-media.s3.amazonaws.com/public/images/9a7f8053-dd8e-4af4-bc11-4ae28f7cf2b8_499x521.png)
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/9a7f8053-dd8e-4af4-bc11-4ae28f7cf2b8_499x521.png" alt="A Skill is just a folder with text files" width="450">
 
 You can [read each text file yourself](https://github.com/talsraviv/peoples-post-generator). It's essentially:
 
@@ -50,25 +50,25 @@ Here's how to use it, no technical skills required:
 
 Head over to the [People's Post Generator Github page](https://github.com/talsraviv/peoples-post-generator) and download the zip file:
 
-[![Download the zip file](https://substack-post-media.s3.amazonaws.com/public/images/139131ef-cc54-4a6a-bc79-cf98dbadaa27_986x864.png)](https://substack-post-media.s3.amazonaws.com/public/images/139131ef-cc54-4a6a-bc79-cf98dbadaa27_986x864.png)
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/139131ef-cc54-4a6a-bc79-cf98dbadaa27_986x864.png" alt="Download the zip file" width="450">
 
 ### 2. Give it to your AI of choice
 
 #### ChatGPT tutorial
 
-[![ChatGPT tutorial](https://substack-video.s3.amazonaws.com/video_upload/post/184941256/ed8d598b-2aa6-4395-92c2-d7224bc366ec/transcoded-00001.png)](https://www.talraviv.co/i/184941256/chatgpt-tutorial)
+<a href="https://www.talraviv.co/i/184941256/chatgpt-tutorial"><img src="https://substack-video.s3.amazonaws.com/video_upload/post/184941256/ed8d598b-2aa6-4395-92c2-d7224bc366ec/transcoded-00001.png" alt="ChatGPT tutorial" width="450"></a>
 
 #### Claude web tutorial
 
-[![Claude web tutorial](https://substack-video.s3.amazonaws.com/video_upload/post/184941256/b542c695-d6e9-4252-b5b2-77e432686f0f/transcoded-00001.png)](https://www.talraviv.co/i/184941256/claude-web-tutorial)
+<a href="https://www.talraviv.co/i/184941256/claude-web-tutorial"><img src="https://substack-video.s3.amazonaws.com/video_upload/post/184941256/b542c695-d6e9-4252-b5b2-77e432686f0f/transcoded-00001.png" alt="Claude web tutorial" width="450"></a>
 
 #### Cursor tutorial
 
-[![Cursor tutorial](https://substack-video.s3.amazonaws.com/video_upload/post/184941256/8dec030d-4e17-40d4-bba1-08ebf17e17d1/transcoded-00001.png)](https://www.talraviv.co/i/184941256/cursor-tutorial)
+<a href="https://www.talraviv.co/i/184941256/cursor-tutorial"><img src="https://substack-video.s3.amazonaws.com/video_upload/post/184941256/8dec030d-4e17-40d4-bba1-08ebf17e17d1/transcoded-00001.png" alt="Cursor tutorial" width="450"></a>
 
 #### Claude Code/Claude Cowork tutorial
 
-[![Claude Code/Claude Cowork tutorial](https://substack-video.s3.amazonaws.com/video_upload/post/184941256/585d76a1-3259-47ee-bc63-7347bcecb863/transcoded-00001.png)](https://www.talraviv.co/i/184941256/claude-codeclaude-cowork-tutorial)
+<a href="https://www.talraviv.co/i/184941256/claude-codeclaude-cowork-tutorial"><img src="https://substack-video.s3.amazonaws.com/video_upload/post/184941256/585d76a1-3259-47ee-bc63-7347bcecb863/transcoded-00001.png" alt="Claude Code/Claude Cowork tutorial" width="450"></a>
 
 ### 3. Make it your own
 
