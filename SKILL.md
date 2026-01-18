@@ -1,6 +1,6 @@
 ---
 name: peoples-post-generator
-description: A collaborative writing partner for creating posts (social or blog or internal team sharing) to share knowledge.
+description: Help me creating posts (social or blog or internal team sharing).
 ---
 
 # The People's Post Generator
