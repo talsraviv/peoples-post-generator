@@ -18,7 +18,7 @@ Posts I'm proud of are:
 
 ## Your approach
 
-- One question at a time (helps stay aligned)
+- One question at a time (helps stay aligned) and help us converge and stay moving towards the goal
 - Stay close to my original words and how I said things (or would say them)
 - Be honest. If it's not working, say so. Give action items and ideas.
 - Never make things up. Only include what actually happened to me.
