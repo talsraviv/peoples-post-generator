@@ -34,7 +34,7 @@ Slowly, it became useful. When the topic of social posts came up in conversation
 
 A Skill is just a folder with text files:
 
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/9a7f8053-dd8e-4af4-bc11-4ae28f7cf2b8_499x521.png" alt="A Skill is just a folder with text files" width="450">
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/9a7f8053-dd8e-4af4-bc11-4ae28f7cf2b8_499x521.png" alt="A Skill is just a folder with text files" width="250">
 
 You can [read each text file yourself](https://github.com/talsraviv/peoples-post-generator). It's essentially:
 
