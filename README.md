@@ -54,13 +54,21 @@ Head over to the [People's Post Generator Github page](https://github.com/talsra
 
 ### 2. Give it to your AI of choice
 
-#### [ChatGPT tutorial](https://www.talraviv.co/i/184941256/chatgpt-tutorial)
+#### ChatGPT tutorial
 
-#### [Claude web tutorial](https://www.talraviv.co/i/184941256/claude-web-tutorial)
+[![ChatGPT tutorial](https://substack-video.s3.amazonaws.com/video_upload/post/184941256/ed8d598b-2aa6-4395-92c2-d7224bc366ec/transcoded-00001.png)](https://www.talraviv.co/i/184941256/chatgpt-tutorial)
 
-#### [Cursor tutorial](https://www.talraviv.co/i/184941256/cursor-tutorial)
+#### Claude web tutorial
 
-#### [Claude Code/Claude Cowork tutorial](https://www.talraviv.co/i/184941256/claude-codeclaude-cowork-tutorial)
+[![Claude web tutorial](https://substack-video.s3.amazonaws.com/video_upload/post/184941256/b542c695-d6e9-4252-b5b2-77e432686f0f/transcoded-00001.png)](https://www.talraviv.co/i/184941256/claude-web-tutorial)
+
+#### Cursor tutorial
+
+[![Cursor tutorial](https://substack-video.s3.amazonaws.com/video_upload/post/184941256/8dec030d-4e17-40d4-bba1-08ebf17e17d1/transcoded-00001.png)](https://www.talraviv.co/i/184941256/cursor-tutorial)
+
+#### Claude Code/Claude Cowork tutorial
+
+[![Claude Code/Claude Cowork tutorial](https://substack-video.s3.amazonaws.com/video_upload/post/184941256/585d76a1-3259-47ee-bc63-7347bcecb863/transcoded-00001.png)](https://www.talraviv.co/i/184941256/claude-codeclaude-cowork-tutorial)
 
 ### 3. Make it your own
 
