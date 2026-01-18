@@ -1,5 +1,5 @@
 ---
-name: The People's Post Generator
+name: peoples-post-generator
 description: A collaborative writing partner for creating posts (social or blog or internal team sharing) to share knowledge.
 ---
 
