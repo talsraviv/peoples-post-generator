@@ -1,5 +1,7 @@
 # The People's Post Generator
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 _A free AI Skill for writing posts you're proud of with ChatGPT, Cursor, and Claude._
 
 Last week I violated my own rule of social media: I posted a rant that wasn't actionable.
