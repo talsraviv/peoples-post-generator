@@ -4,35 +4,25 @@ _A free AI Skill for writing posts you're proud of with ChatGPT, Cursor, and Cla
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-I recently violated my own rule of social media: I posted a rant that wasn't actionable.
+Last week I violated my own rule of social media: I posted a rant that wasn't actionable.
 
-My rant went like this:
+My rant*:* Most AI content is designed to induce FOMO. Influencers and algorithms symbiotically profit from keeping us impressed and confused. Aman Khan calls it a "race to the bottom." I call it the "AI-hype-industrial complex."
 
-- For the last 3 years, most AI content was designed to induce FOMO (I'll spare you the examples.)
+The solution is for real operators to post what they're really doing. It doesn't have to be novel or fancy. We're all hungry to know what **you're** doing, what's working---or not---for **you**.
 
-- Influencers and algorithms symbiotically profit from keeping us impressed and confused (what Aman Khan refers to as a "race to the bottom").
+Except operators don't have time. Not to write posts, not to "learn social media," and definitely not in public. I asked you to post more, with no way to actually do it.
 
-- I can think of no better name than "[AI-hype-industrial complex](https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address)."
-
-Then I shared these utterly unhelpful tips:
-
-- We need real operators sharing what they're doing at work
-
-- If you feel like an impostor, remember it doesn't have to be fancy or novel.
-
-- You won't be cringe if you stay 1) personal and 2) practical
-
-The problem with this is *real operators don't have time.* Not to write posts, not to "learn social media," and definitely not in public. I told people to post more but gave them no way to actually do it.
-
-**So I'm making up for it by open-sourcing the AI instructions I've personally been using to write my social posts.** ["The People's Post Generator"](https://github.com/talsraviv/peoples-post-generator) is an AI [Skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview), which is a fancy term for a collection of text files that a chat LLM can autonomously decide to pull into a conversation.
+**So, I'm open-sourcing the AI Skill I use to write my social posts.** "The People's Post Generator" is an AI [Skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview), basically a folder of text files that AI can pull into conversation when relevant.
 
 ## How to use it
 
-I've been organically growing a little folder of text files to help me write my social posts. It helped me take a messy idea (Slack screenshot, Whatsapp chat export, Granola transcript, or just speech-to-text rant) and collaboratively work it into a post I was proud of.
+I’ve been organically growing a little folder of text files to help me write my social posts. It helps me take a messy idea (Slack screenshot, Whatsapp chat export, Granola transcript, or just speech-to-text rant) and smoosh it into a post I’m proud of. 
 
-I did this without Prompt Engineering™️. Each time I saw a way to make AI work better for me, I'd add another line of instruction. If I came across an example I liked, I'd copy-paste it in.
+No Prompt Engineering™️ was involved. Instead, each time I saw a way to make AI work better for me, I’d add another line of instruction. If I came across an example I liked, I’d copy-paste it in.
 
 Slowly, it became useful. When the topic of social posts came up in conversation, I found myself zipping up the text files and sharing it with colleagues. Why not share it with everyone?
+
+## What's inside 
 
 A Skill is just a folder with text files:
 
@@ -46,7 +36,7 @@ You can [read each text file yourself](https://github.com/talsraviv/peoples-post
 
 - Guides to good writing (how not to sound like AI, a directive to [write like you talk](https://paulgraham.com/talk.html), and a TLDR of [*The Elements of Style*](https://en.wikipedia.org/wiki/The_Elements_of_Style))
 
-Here's how to use it, no technical skills required:
+You can use it in with favorite LLM:
 
 ### 1. Download the zip file to your computer
 
@@ -78,23 +68,23 @@ The folder `make-it-yours` is well, completely yours! Once it's on your computer
 
 ### 4. [Optional] Propose improvements with a pull request
 
-Most of the changes you'll make to this will be personal (examples you like, your personal bar for posting something). However, you might come across ideas that might be relevant to other people using this skill (whatever their taste). For example, a better conversation experience, or a way of making this skill more likely to get picked up by AI.
+Most of the changes you’ll make to this will be personal (examples you like, your personal bar for posting something). However, you might come across ideas that might be relevant to other people using this skill (whatever their taste). For example, a better conversation experience, or a way of making this skill more likely to get picked up by AI.
 
-**These are the shared values that make this "The People's Post Generator." If you submit a PR, it should align with these:**
-
-1. Personal over prescriptive - "how I did X" not "how to do X"
-
-2. Practical over philosophical - actionable takeaways, not vibes
-
-3. No nearsighted hacks - no "comment for my PDF", no manufactured hypertension or [broetry](https://fenwick.media/rewild/magazine/dead-broets-society-behind-the-strange-story).
-
-If you think there's a way to make this better that affects the common denominator for everyone, I would love for you to open an issue or even make a pull request:
+If you think there’s a way to make this better that affects the common denominator for everyone, I would love for you to open an issue or even make a pull request:
 
 1. Open a coding agent (Cursor, Claude Code, etc.)
 
-2. Tell it `I want to make a pull request to this github repository but not sure what to do: https://github.com/talsraviv/peoples-post-generator`
+2. Tell it: 
 
-Let AI guide you from there!
+```I want to make a pull request to this github repository but not sure what to do: https://github.com/talsraviv/peoples-post-generator```
+
+Let AI hold your hand through the process.
+
+## Power to the humans
+
+I made this for myself. I needed something that would hold me accountable to my own standards when I'm tired and tempted to just hit publish. 
+
+Now that it belongs to everyone, real people can call me out when I don’t follow my own rules, not just AI.
 
 ## Acknowledgements
 
