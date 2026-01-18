@@ -24,7 +24,7 @@ The problem with this is *real operators don't have time.* Not to write posts, n
 
 **So I'm making up for it by open-sourcing the AI instructions I've personally been using to write my social posts.** ["The People's Post Generator"](https://github.com/talsraviv/peoples-post-generator) is an AI [Skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview), which is a fancy term for a collection of text files that a chat LLM can autonomously decide to pull into a conversation.
 
-## What is this?
+## How to use it
 
 I've been organically growing a little folder of text files to help me write my social posts. It helped me take a messy idea (Slack screenshot, Whatsapp chat export, Granola transcript, or just speech-to-text rant) and collaboratively work it into a post I was proud of.
 
