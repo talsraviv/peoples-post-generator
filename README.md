@@ -92,6 +92,6 @@ If you think there's a way to make this better that affects the common denominat
 
 1. Open a coding agent (Cursor, Claude Code, etc.)
 
-2. Give it [this URL](https://github.com/talsraviv/peoples-post-generator) and tell it `I want to make a pull request to this github repository but not sure what to do.`
+2. Tell it `I want to make a pull request to this github repository but not sure what to do: https://github.com/talsraviv/peoples-post-generator`
 
 Let AI guide you from there!
