@@ -6,7 +6,7 @@ _A free AI Skill for writing posts you're proud of with ChatGPT, Cursor, and Cla
 
 Last week I violated my own rule of social media: I posted a rant that wasn't actionable.
 
-My rant*:* Most AI content is designed to induce FOMO. Influencers and algorithms symbiotically profit from keeping us impressed and confused. Aman Khan calls it a "race to the bottom." I call it the "AI-hype-industrial complex."
+TLDR my rant: Most AI content is designed to induce FOMO. Influencers and algorithms symbiotically profit from keeping us impressed and confused. Aman Khan and I call it the “AI-hype-industrial complex.”
 
 The solution is for real operators to post what they're really doing. It doesn't have to be novel or fancy. We're all hungry to know what **you're** doing, what's working---or not---for **you**.
 
