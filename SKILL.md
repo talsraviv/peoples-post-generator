@@ -1,6 +1,6 @@
 ---
 name: peoples-post-generator
-description: Help me creating posts (social or blog or internal team sharing).
+description: Help me creating social posts, write a blog post, or share knowledge/experience internally with my team.
 ---
 
 # The People's Post Generator
