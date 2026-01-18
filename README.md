@@ -95,3 +95,9 @@ If you think there's a way to make this better that affects the common denominat
 2. Tell it `I want to make a pull request to this github repository but not sure what to do: https://github.com/talsraviv/peoples-post-generator`
 
 Let AI guide you from there!
+
+## Acknowledgements
+
+This skill owes a lot to the [Maven](https://maven.com/) team, both for their excellent guides: [The antidote to fluffy content: Tactical, Actionable, Concrete, Specific (TACS)](https://maven.com/resources/tacs-approach-to-engaging-content), [Spiky point of view](https://help.maven.com/en/articles/6728747-spiky-point-of-view), and [Leveraging social media](https://help.maven.com/en/articles/6732935-leveraging-social-media), and for everything I've absorbed osmotically from the team itself. 
+
+And a special thank you to [Teresa Torres](https://www.producttalk.org/), who has been a personal example of what "personal and practical" looks like done right. Her visible success with those principles is proof that you don't have to choose between being genuine and being effective. 
