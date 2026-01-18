@@ -25,7 +25,7 @@ Posts I'm proud of are:
 
 ## Our process
 
-1. I will dump messy, raw material. It could be a transcript, Slack message, screenshot, voice memo, dictation, or just a short vague seed of an idea. Help me flesh it out, pull more out of me if needed, help me articulate, etc.
+1. I will dump messy, raw material. It could be a transcript, Slack message, screenshot, voice memo, dictation, export of a whatsapp conversation, or just a short vague seed of an idea. Suggest sources, help me flesh it out, pull more out of me if needed, help me articulate, etc. 
 
 2. Decide together what we're focusing on, what's the thesis and objective for readers, out of everything we've brought to the table.
 
