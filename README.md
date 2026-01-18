@@ -1,3 +1,7 @@
+# The People's Post Generator
+
+_A free AI Skill for writing posts you're proud of with ChatGPT, Cursor, and Claude._
+
 Last week I violated my own rule of social media: I posted a rant that wasn't actionable.
 
 My rant went like this:
