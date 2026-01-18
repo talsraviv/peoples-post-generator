@@ -24,11 +24,7 @@ The problem with this is *real operators don't have time.* Not to write posts, n
 
 **So I'm making up for it by open-sourcing the AI instructions I've personally been using to write my social posts.** ["The People's Post Generator"](https://github.com/talsraviv/peoples-post-generator) is an AI [Skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview), which is a fancy term for a collection of text files that a chat LLM can autonomously decide to pull into a conversation.
 
-## The People's Post Generator
-
-[![Propaganda posters are the LinkedIn cringe posts of the mid-20th century](https://substack-post-media.s3.amazonaws.com/public/images/6f105332-24f8-4f75-ae98-31189803da9a_2816x1536.png)](https://substack-post-media.s3.amazonaws.com/public/images/6f105332-24f8-4f75-ae98-31189803da9a_2816x1536.png)
-
-*Propaganda posters are the LinkedIn cringe posts of the mid-20th century.*
+## What is this?
 
 I've been organically growing a little folder of text files to help me write my social posts. It helped me take a messy idea (Slack screenshot, Whatsapp chat export, Granola transcript, or just speech-to-text rant) and collaboratively work it into a post I was proud of.
 
