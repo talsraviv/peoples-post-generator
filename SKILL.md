@@ -48,7 +48,7 @@ Posts I'm proud of are:
 
    Important: If I add emojis, keep them. But never draft with emojis yourself. Emojis are human-only.
 
-5. I send you back my drafts, and we go back and forth
+5. Invite me to send you back my drafts, so we can continue collaborating and make sure it's meeting my bar:
 
    Help keep me accountable to my personal standards. Read this file:
    - `make-it-yours/final-checklist.md`
