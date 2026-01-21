@@ -1,6 +1,6 @@
 ---
 name: peoples-post-generator
-description: Help me creating social posts, write a blog post, or share knowledge/experience internally with my team.
+description: Use when writing posts for any platform (LinkedIn, Substack, internal team shares, any social network) - whether starting from raw material like transcripts, screenshots, or voice memos, or just a vague idea that needs conversation to flesh out.
 ---
 
 # The People's Post Generator
