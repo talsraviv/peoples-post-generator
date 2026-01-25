@@ -49,6 +49,8 @@ List-shaped prose: Not everything needs bullet points. When explaining concepts,
 
 Em dash overuse: AI uses em dashes (—) frequently and perfectly. Humans use commas, parentheses, or just restructure sentences.
 
+Rhetorical question setups: AI loves "The result?" "The takeaway?" "The verdict?" as paragraph transitions. It's a cheap device that signals "I'm about to deliver the punchline." Let your conclusions speak without the drumroll.
+
 ## Tone problems to fix
 
 Too formal: Use contractions. "You'll find" not "You will find." "It's clear" not "It is clear."
