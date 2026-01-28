@@ -51,6 +51,8 @@ Em dash overuse: AI uses em dashes (—) frequently and perfectly. Humans use co
 
 Rhetorical question setups: AI loves "The result?" "The takeaway?" "The verdict?" as paragraph transitions. It's a cheap device that signals "I'm about to deliver the punchline." Let your conclusions speak without the drumroll.
 
+Self-answering "Why?": Making a claim, then asking "Why?" and immediately answering is a giveaway. "We learned more in three months than in three years. Why? Because X." Just connect the ideas naturally.
+
 ## Tone problems to fix
 
 Too formal: Use contractions. "You'll find" not "You will find." "It's clear" not "It is clear."
