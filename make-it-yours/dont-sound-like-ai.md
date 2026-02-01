@@ -24,6 +24,7 @@ delve, tapestry, realm, foster, landscape, leverage, robust, seamless, navigate,
 "The future of X remains..."
 "Despite these challenges..."
 "What does this mean for the future of..."
+"Here's the uncomfortable truth:"
 
 ## Latinate words to replace with simpler alternatives
 utilize → use
